@@ -23,5 +23,3 @@ pip install SimPy==2.2
 pip install scikit-commpy
 pip install simplekml
 pip install smopy
-
-python setup.py install
