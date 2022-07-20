@@ -1,5 +1,10 @@
-# pyRadio
+# PyRadio
 PyRadio is a Python platform used to simulate the LoRa Radio propagation for an IoT project. This repo was forked from PyLayers, tool for Site Specific Radio Propagation Simulation.
+
+PyRadio is a portable version of the more complex PyLayers analyzer. You need only to install all the dependency and put in the '_dem' folder the .tif file related to you spot point.
+
+DEM plot preview
+![immagine](https://user-images.githubusercontent.com/75024892/179954520-b2702c28-735c-4c93-aee7-70f012dc0481.png)
 
 Preview of the LoRaWAN radio coverage from a speific gateway
 ![immagine](https://user-images.githubusercontent.com/75024892/179952259-c91f45bd-7a04-471f-9b00-09e540905ac0.png)
